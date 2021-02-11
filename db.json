@@ -8,8 +8,8 @@
       "beds": 3,
       "bathrooms": 1,
       "livingrooms": 1,
-      "minPrice": 450000,
-    }
+      "minPrice": 450000
+    },
     {
       "id": 2,
       "address1": "Mitcham Road",
@@ -18,7 +18,7 @@
       "beds": 2,
       "bathrooms": 2,
       "livingrooms": 1,
-      "minPrice": 550000,
+      "minPrice": 550000
     }
   ]
 }
