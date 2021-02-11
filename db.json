@@ -2,7 +2,14 @@
   "listings": [
     {
       "id": 1,
-      "title": "hello"
+      "address1": "Marylee Way",
+      "address2": "London",
+      "postcode": "SE11",
+      "minPrice": 455000,
+      "pictures": ["url1", "url2"],
+      "beds": 3,
+      "baths": 1,
+      "livingRooms": 1
     }
   ]
 }
