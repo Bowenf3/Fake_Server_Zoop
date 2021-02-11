@@ -9,16 +9,6 @@
       "bathrooms": 1,
       "livingrooms": 1,
       "minPrice": 450000
-    },
-    {
-      "id": 2,
-      "address1": "Mitcham Road",
-      "address2": "London",
-      "postcode": "SW17",
-      "beds": 2,
-      "bathrooms": 2,
-      "livingrooms": 1,
-      "minPrice": 550000
     }
   ]
 }
