@@ -6,7 +6,7 @@
       "address2": "London",
       "postcode": "SE11",
       "minPrice": 455000,
-      "pictures": ["url1", "url2"],
+      "pictures": ["https://lid.zoocdn.com/645/430/3670271f9824184baabc172caaabe4114e4bc819.jpg", "url2"],
       "beds": 3,
       "baths": 1,
       "livingRooms": 1
@@ -17,7 +17,7 @@
       "address2": "London",
       "postcode": "SW17",
       "minPrice": 555000,
-      "pictures": ["url1", "url2"],
+      "pictures": ["https://lid.zoocdn.com/645/430/3670271f9824184baabc172caaabe4114e4bc819.jpg", "url2"],
       "beds": 2,
       "baths": 2,
       "livingRooms": 1
